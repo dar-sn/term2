@@ -1,0 +1,3 @@
+/home/student-csu/projects/projC++/CMakeFiles/edit_cache.dir
+/home/student-csu/projects/projC++/CMakeFiles/rebuild_cache.dir
+/home/student-csu/projects/projC++/CMakeFiles/Master.dir

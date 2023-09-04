@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/Master.dir/src/main.cpp.o  -o Master 
